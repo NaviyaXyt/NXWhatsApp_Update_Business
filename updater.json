@@ -1,21 +1,17 @@
 {
   "NXWhatsApp_Update_Business": [
     {
- "version":"V1.10.0",
+ "version":"V2.10.0",
  "title":" ",
- "description":"New base updated to 2.25.20.13 Stable.
+ "description":"New base updated to 2.25.29.77 Stable.
       
-      Anti-ban improvements ( new ).
-      
-      Added hide more options menu.
-      
-      Added hide archived chats.
+      Anti-ban improvements.
       
       Fixed lag whatsapp home and all bugs.
       
       Fixed crashing when opening WhatsApp on some devices.
  ",
-"download":"https://youtu.be/Z5uGCcOj-S4?feature=shared"
+"download":"https://youtu.be/L4zKIYTCaE4"
 }
   ]
 }
